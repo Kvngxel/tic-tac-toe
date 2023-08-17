@@ -1,2 +1,0 @@
-git fetch origin
-git checkout 5-fixing-the-error
